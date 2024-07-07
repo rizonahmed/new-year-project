@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Satisfy&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: "Work Sans", sans-serif;
+}
+.first{
+ width:85% ;
+ height: 40rem;   
+background-image: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(Banner\ Image.png) ;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+border-radius: 1rem;
+margin: 4rem auto;
+ text-align: center;
+ justify-content: center;
+}
+.ph{
+width:40% ;
+margin: auto;
+}
+ 
+.ph > p{
+    color: aliceblue;
+     font-size:2rem ;
+     font-weight: 500;
+     padding-top: 11rem;
+     padding-bottom :2rem; 
+    }
+    
+    .ph > h1{
+        font-size: 4rem;
+        color: aliceblue;
+        line-height: 5rem;
+        }
+
+
+.discount{
+text-align: center;
+margin: 4rem auto;
+
+}
+.discount > h1{
+color: #FF0000;
+font-size: 4rem;
+padding-bottom: 3rem;
+padding-top: 2.5rem;
+
+}
+.discount> p{
+color: #FF0000;
+font-size: 1.3rem;
+font-weight: 600;
+padding-bottom: 1rem;
+}
+.discount > span{
+font-size: 2.7rem;
+font-weight:600
+ ;
+}
+.discount > img{
+    padding-top: 4rem;
+margin: auto;
+}
+
+
+.vector{
+width: 85%;
+height:40rem ;
+background:  linear-gradient(90.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%), url(Vectorrr.png);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+border-radius: 1rem;
+margin:3rem auto;
+
+}
+.for-two{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   margin: 8rem;
+   
+
+}
+.side-one{
+width: 53%;
+padding: 7rem 0;
+}
+
+.side-one > h1{
+color: whitesmoke;
+font-size:4rem ;
+line-height: 5rem;
+padding-bottom: 2rem;
+}
+.side-one>P{
+font-size: 1.2rem;
+color: aliceblue;
+font-weight: 200;
+padding-bottom: 4rem;
+}
+.side-one> button{
+border: none;
+font-size: 1.4rem;
+font-weight: 600;
+background: transparent;
+color: aliceblue;
+ padding-left: 3rem;
+cursor: pointer;
+
+}
+
+.side-two{
+padding: 6rem 2rem ;
+
+}
+
+
+
+.new-park{
+    width: 85%;
+    height: 20rem;
+background-image:linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%); ;
+text-align: center;
+margin: 6rem auto;
+border-radius: 1rem;
+
+}
+.dolor{
+margin: 6rem 0;
+padding: 8rem 0;
+}
+.dolor> p > span{
+color: #FF0000;
+
+
+}
+
+.dolor>P{
+font-size: 1.5rem;
+font-weight: 600;
+line-height: 2.8rem;
+
+}
+.dolor>button{
+padding: .9rem 2rem;
+border-radius: .4rem;
+background-color: #FF0000;
+color: whitesmoke;
+font-size: 1rem;
+border: none;
+outline: none;
+margin-top: 3rem;
+}
