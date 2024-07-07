@@ -129,7 +129,6 @@ background-image:linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0,
 text-align: center;
 margin: 6rem auto;
 border-radius: 1rem;
-
 }
 .dolor{
 margin: 6rem 0;
@@ -157,3 +156,296 @@ border: none;
 outline: none;
 margin-top: 3rem;
 }
+
+.hard{
+width: 70%;
+height: 27rem;
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 5rem auto;
+ flex-wrap: wrap;
+ margin-top: 10rem;
+}
+
+.coming{
+width:22% ;
+padding: 0 .9rem;
+ 
+}
+
+.coming>p{
+ color: #FF0000;
+ font-size: 1.2rem;
+font-weight: 600;
+padding: .8rem 0;
+}
+.coming>h1{
+font-size: 2.3rem;
+padding: .9rem 0;
+
+}
+.coming>small{
+opacity: .8;
+
+}
+.photo{
+    margin-left: -4rem;
+height: 380px;
+width: 380px;
+border-radius: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+border: #FF0000 solid 15px;
+
+
+
+}
+ 
+.photo> span >img{
+padding: 0 5rem;
+height: 18rem;
+width: 28rem;
+}
+
+.happy{
+width: 15%;
+
+
+}
+.happy>h2{
+color: #FF0000;
+font-size: 2.5rem;
+padding: 1rem 0;
+}
+.happy>p{
+font-size: small;
+opacity: .8;
+padding-bottom: 1.5rem;
+}
+
+.holiday{
+width: 40%;
+margin: auto;
+text-align: center;
+}
+
+.holiday>P{
+font-size: 1.2rem;
+font-weight: 500;
+padding-bottom: 1.5rem;
+}
+.holiday>h1{
+font-size: 4rem;
+padding-bottom: 1.5rem;
+}
+
+.holiday> h1>span{
+color: #FF0000;
+}
+
+
+.red-sec{
+margin:4rem auto;
+width:85% ; 
+background-image:  url(Rectangle\ 2.png);
+background-repeat: no-repeat;
+background-position: bottom;
+display: flex;
+justify-content: space-between;
+align-items: center;
+flex-wrap: wrap;
+
+}
+
+.olan img{
+padding-left: 7rem;
+ 
+}
+
+.tolan img{
+margin-right: 12rem;
+margin-top: -11rem;
+
+}
+
+
+.top-part{
+width: 70%;
+margin: 7rem auto;
+
+
+}
+.top-part>h2{
+color: #FF0000;
+font-size: 1.5rem;
+font-weight: 500;
+padding-bottom: 1.5rem;
+
+}
+
+.top-part>h1{
+font-size: 2.5rem;
+padding-bottom: 2rem;
+
+}
+
+.top-part>p{
+width:70% ;
+font-size: 1.1rem;
+opacity: .8;
+
+}
+ 
+.bag-sec{
+width: 70%;
+margin: auto;
+ 
+}
+
+.bag-sec>p>img{
+  width: 25rem;
+ padding-bottom: .1rem;
+padding-right: 1rem;
+
+}
+
+
+.sign-up{
+margin:6rem auto;
+width: 70%;
+height: 35rem;
+background-color:#fff2f2;
+text-align: center;
+border-radius: 1rem;
+}
+
+
+.sign-up>img{
+padding-top: 4rem;
+
+}
+.sign-up>h1{
+font-size:  3rem ;
+padding: 1.5rem 0;
+
+}
+.sign-up>p{
+width: 70%;
+text-align: center;
+margin: auto;
+padding-bottom: 3rem; 
+ 
+}
+
+.btn{
+ width: 35rem;
+ display: flex;
+justify-content: center;
+align-items: center;
+margin: .8rem auto;
+background-color: rgb(255, 255, 255);
+border-radius: 4rem;
+overflow: hidden;
+}
+
+/* .btn >input{
+text-align: start;
+ 
+} */
+
+ #mail{
+padding: 1.5rem 7rem;
+background: transparent;
+border: none;
+outline: none;
+font-size: 1rem;
+ } 
+ #cribe{
+ padding:1.5rem 3rem ;
+ background: transparent;
+ border: none;
+ outline: none;
+font-size: 1.2rem;
+background-color: #FF0000;
+ text-align:;
+ }
+
+
+ footer{
+background-color: black;
+height: 36rem;
+color: aliceblue;
+ }
+
+.webside{
+display: flex;
+justify-content: space-between;
+align-items: center;
+
+}
+.street{
+width: 52%;
+
+
+}
+.street> P{
+font-size:1.4rem ;
+margin: 6rem 17rem;
+line-height: 2.5rem
+}
+
+.nmbr{
+ margin-right: 17rem;
+
+}
+
+.nmbr>p{
+font-size: 1.2rem;
+
+}
+.nmbr >p>img{
+font: size 1.4rem ;
+
+}
+
+hr{
+color: #181818;
+height: 1px;
+ 
+}
+
+
+.social{
+text-align: center;
+margin: 3rem 0;
+
+}
+.social>img{
+    width: 4.5rem;
+padding: 0 .6rem;
+
+}
+
+.done{
+display: flex;
+justify-content: space-between;
+align-items: center;
+margin: 4rem 17rem;
+}
+
+.reserv>p{
+font-size: 1rem;
+
+}
+
+.reserv>p>span{
+color: rgb(40, 126, 255);
+
+}
+
+.dvlp> p> span{
+color: #ff00ea;
+font-family: "Playwrite GB S", cursive;
+font-weight: 600;}
